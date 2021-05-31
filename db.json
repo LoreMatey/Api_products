@@ -51,7 +51,7 @@
 
         {
             "id": 8,
-            "image": "https://github.com/LoreMatey/Api_products/blob/main/skateboard-002-jart-stranger.jpg",
+            "image": "https://raw.githubusercontent.com/LoreMatey/Api_products/main/skateboard-003-jart-friends.jpg",
             "description": "Tabla de skate Jart Friends",
             "price": "50,00"
         }
