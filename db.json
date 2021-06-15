@@ -4,21 +4,24 @@
             "id": 1,
             "image": "https://images.pexels.com/photos/1478442/pexels-photo-1478442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "description": "SB Charge SLR",
-            "price": "54,95"
+            "price": "54,95",
+            "category": "sneakers"
         },
 
         {
             "id": 2,
             "image": "https://images.pexels.com/photos/1570867/pexels-photo-1570867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
             "description": "Nike SB Blazer Low GT Coast",
-            "price": "69,90"
+            "price": "69,90",
+            "category": "sneakers"
         },
 
         {
             "id": 3,
             "image": "https://images.unsplash.com/photo-1516478177764-9fe5bd7e9717?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1650&q=80",
             "description": "Air Jordan 1 Mid",
-            "price": "100,00"
+            "price": "100,00",
+            "category": "sneakers"
         },
 
         {
