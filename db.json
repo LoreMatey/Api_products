@@ -3,60 +3,68 @@
         {
             "id": 1,
             "image": "https://images.pexels.com/photos/1478442/pexels-photo-1478442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-            "description": "SB Charge SLR",
+            "name": "SB Charge SLR",
             "price": "54,95",
-            "category": "sneakers"
+            "category": "sneakers",
+            "brand": "Nike"
         },
 
         {
             "id": 2,
             "image": "https://images.pexels.com/photos/1570867/pexels-photo-1570867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-            "description": "Nike SB Blazer Low GT Coast",
+            "name": "Nike SB Blazer Low GT Coast",
             "price": "69,90",
-            "category": "sneakers"
+            "category": "sneakers",
+            "brand": "Nike"
         },
 
         {
             "id": 3,
             "image": "https://images.unsplash.com/photo-1516478177764-9fe5bd7e9717?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1650&q=80",
-            "description": "Air Jordan 1 Mid",
+            "name": "Air Jordan 1 Mid",
             "price": "100,00",
-            "category": "sneakers"
+            "category": "sneakers",
+            "brand": "Nike"
         },
 
         {
             "id": 4,
             "image": "https://images.unsplash.com/photo-1615451210353-cbcf249f392a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80",
-            "description": "Nike SB Dunk High Carpet Company",
-            "price": "120,00"
+            "name": "Nike SB Dunk High Carpet Company",
+            "price": "120,00",
+            "brand": "Nike"
         },
 
         {
             "id": 5,
             "image": "https://images.unsplash.com/photo-1617746872860-12e41ccf0817?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80",
-            "description": "Nike SB Blazer Mid",
-            "price": "85,00"
+            "name": "Nike SB Blazer Mid",
+            "price": "85,00",
+            "brand": "Nike"
         },
         
         {
             "id": 6,
             "image": "https://images.unsplash.com/photo-1581088583450-8f6314b6feb1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80",
-            "description": "Nike Air Force 1 Beige On-Feet Shooting",
-            "price": "100,00"
+            "name": "Nike Air Force 1 Beige On-Feet Shooting",
+            "price": "100,00",
+            "brand": "Nike"
         },
         
         {
             "id": 7,
             "image": "https://images.pexels.com/photos/812875/pexels-photo-812875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-            "description": "Adidas Gazelle black",
-            "price": "75,00"
+            "name": "Adidas Gazelle black",
+            "price": "75,00",
+            "brand": "Adidas"
         },
         
         {
             "id": 8,
             "image": "https://images.unsplash.com/photo-1595461135849-bf08893fdc2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2249&q=80",
-            "description": "Nike SB Blazer Mid blue",
-            "price": "85,00"
+            "name": "Nike SB Blazer Mid blue",
+            "price": "85,00",
+            "brand": "Nike"
         }
 
     ],
