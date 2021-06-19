@@ -23,10 +23,11 @@
         {
             "id": 3,
             "image": "https://images.unsplash.com/photo-1516478177764-9fe5bd7e9717?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1650&q=80",
-            "name": "Air Jordan 1 Mid",
+            "name": "Nike Air Jordan 1 Mid",
             "price": "100,00",
             "category": "sneakers",
-            "brand": "Nike"
+            "brand": "Nike",
+            "description": "Las zapatillas Air Jordan 1 Mid se inspiran en las primeras AJ1 y ofrecen a los aficionados al estilo retro de Jordan la oportunidad de seguir los pasos hacia la grandeza. El color innovador da vida al ribete de los materiales clásicos e impecables y aporta un toque de novedad a un diseño familiar."
         },
 
         {
@@ -34,7 +35,8 @@
             "image": "https://images.unsplash.com/photo-1615451210353-cbcf249f392a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80",
             "name": "Nike SB Dunk High Carpet Company",
             "price": "120,00",
-            "brand": "Nike"
+            "brand": "Nike",
+            "description": "Las Nike SB combinan un diseño de perfil bajo con un tejido de lona flexible para ofrecer un rendimiento premium. La suela interior de doble densidad sujeta los pies mientras patinas y ofrece amortiguación para practicar todo tipo de saltos y trucos."
         },
 
         {
@@ -42,7 +44,8 @@
             "image": "https://images.unsplash.com/photo-1617746872860-12e41ccf0817?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80",
             "name": "Nike SB Blazer Mid",
             "price": "85,00",
-            "brand": "Nike"
+            "brand": "Nike",
+            "description": "Las Nike SB Blazer Mid adaptan un diseño clásico a las necesidades de los skaters de hoy. La amortiguación suave y la suela flexible se combinan para proporcionar una mayor tracción y contacto con la tabla."
         },
         
         {
@@ -50,7 +53,8 @@
             "image": "https://images.unsplash.com/photo-1581088583450-8f6314b6feb1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80",
             "name": "Nike Air Force 1 Beige On-Feet Shooting",
             "price": "100,00",
-            "brand": "Nike"
+            "brand": "Nike",
+            "description": "El fulgor sigue vivo con las Nike Air Force 1 '07, un icono de la marca que aporta un nuevo toque a su ya característica piel impecable, sus colores llamativos y la cantidad perfecta de reflectante."
         },
         
         {
@@ -58,7 +62,8 @@
             "image": "https://images.pexels.com/photos/812875/pexels-photo-812875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
             "name": "Adidas Gazelle black",
             "price": "75,00",
-            "brand": "Adidas"
+            "brand": "Adidas",
+            "description": "Un auténtico clásico. Tras debutar como una zapatilla esencialmente deportiva, la Gazelle no tardó en convertirse en un icono del estilo urbano. Esta zapatilla se ha confeccionado con los mismos materiales, colores y proporciones ligeramente más anchas que la versión de 1991. Presenta una parte superior de nobuk suave que le aporta un aire sofisticado."
         },
         
         {
@@ -66,7 +71,8 @@
             "image": "https://images.unsplash.com/photo-1595461135849-bf08893fdc2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2249&q=80",
             "name": "Nike SB Blazer Mid blue",
             "price": "85,00",
-            "brand": "Nike"
+            "brand": "Nike",
+            "description": "Las Nike SB Blazer Mid adaptan un diseño clásico a las necesidades de los skaters de hoy. La amortiguación suave y la suela flexible se combinan para proporcionar una mayor tracción y contacto con la tabla."
         }
 
     ],
