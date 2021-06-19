@@ -3,10 +3,11 @@
         {
             "id": 1,
             "image": "https://images.pexels.com/photos/1478442/pexels-photo-1478442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-            "name": "SB Charge SLR",
+            "name": "Nike SB Charge SLR",
             "price": "54,95",
             "category": "sneakers",
-            "brand": "Nike"
+            "brand": "Nike",
+            "description": "Las Nike SB combinan un diseño de perfil bajo con un tejido de lona flexible para ofrecer un rendimiento premium. La suela interior de doble densidad sujeta los pies mientras patinas y ofrece amortiguación para practicar todo tipo de saltos y trucos."
         },
 
         {
@@ -15,7 +16,8 @@
             "name": "Nike SB Blazer Low GT Coast",
             "price": "69,90",
             "category": "sneakers",
-            "brand": "Nike"
+            "brand": "Nike",
+            "description": "Las Nike SB combinan un diseño de perfil bajo con un tejido de lona flexible para ofrecer un rendimiento premium. La suela interior de doble densidad sujeta los pies mientras patinas y ofrece amortiguación para practicar todo tipo de saltos y trucos."
         },
 
         {
