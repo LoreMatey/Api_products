@@ -86,8 +86,8 @@
             "price": "50,00",
             "brand": "Jart",
             "description": [
-                "Ancho: 8.00 in",
-                "Largo: 31.85 in",
+                "Ancho: 8.00",
+                "Largo: 31.85",
                 "Cóncavo: bajo"
                 ]
         },
@@ -99,8 +99,8 @@
             "price": "50,00",
             "brand": "Jart",
             "description": [
-                "Ancho: 8.00 in",
-                "Largo: 31.85 in",
+                "Ancho: 8.00",
+                "Largo: 31.85",
                 "Cóncavo: bajo"
                 ]
         },
@@ -112,8 +112,8 @@
             "price": "50,00",
             "brand": "Jart",
             "description": [
-                "Ancho: 8.00 in",
-                "Largo: 31.85 in",
+                "Ancho: 8.00",
+                "Largo: 31.85",
                 "Cóncavo: bajo"
                 ]
         }
