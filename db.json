@@ -116,6 +116,19 @@
                 "Largo: 31.85",
                 "Cóncavo: bajo"
                 ]
+        },
+        
+        {
+            "id": 4,
+            "image": "https://raw.githubusercontent.com/LoreMatey/Api_products/main/skateboard-004-jart-mixed.jpg",
+            "name": "Tabla de skate Jart Mixed",
+            "price": "50,00",
+            "brand": "Jart",
+            "description": [
+                "Ancho: 8.375",
+                "Largo: 31.85",
+                "Cóncavo: bajo"
+                ]
         }
     ],
 
