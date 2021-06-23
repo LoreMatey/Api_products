@@ -168,6 +168,19 @@
                 "Largo: 31.85",
                 "Cóncavo: bajo"
                 ]
+        },
+        
+        {
+            "id": 8,
+            "image": "https://jartskateboards.com/wp-content/uploads/2020/10/jart-abstraction-8-125-deck.jpg",
+            "name": "Tabla de skate Jart Abstraction",
+            "price": "50,00",
+            "brand": "Jart",
+            "description": [
+                "Ancho: 8.125",
+                "Largo: 31.60",
+                "Cóncavo: alto"
+                ]
         }
         
     ],
