@@ -129,7 +129,34 @@
                 "Largo: 31.85",
                 "Cóncavo: bajo"
                 ]
+        },
+        
+        {
+            "id": 5,
+            "image": "https://raw.githubusercontent.com/LoreMatey/Api_products/main/images/skateboard-005-jart-jartone.jpg",
+            "name": "Tabla de skate Jart Jartone Yellow",
+            "price": "50,00",
+            "brand": "Jart",
+            "description": [
+                "Ancho: 8.25",
+                "Largo: 31.72",
+                "Cóncavo: alto"
+                ]
+        },
+        
+        {
+            "id": 6,
+            "image": "https://raw.githubusercontent.com/LoreMatey/Api_products/main/images/skateboard-006-jart-jartone-blue.jpg",
+            "name": "Tabla de skate Jart Jartone Blue",
+            "price": "50,00",
+            "brand": "Jart",
+            "description": [
+                "Ancho: 8.25",
+                "Largo: 31.72",
+                "Cóncavo: alto"
+                ]
         }
+        
     ],
 
     "profile": {
